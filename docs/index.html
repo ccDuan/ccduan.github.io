@@ -13,20 +13,26 @@
     <a href="#/">EN</a>
     <a href="#/zh-cn/">中文</a>
   </nav>
-  <div id="app">努力加载中</div>
+  <div id="app">加载中...</div>
   <script>
     window.$docsify = {
       name: '',
       repo: '',
 	  //配置导航栏
 	  loadNavbar: true,
+	  //侧边栏
 	  loadSidebar: true,
-          subMaxLevel: 2,
+      //subMaxLevel: 2,
 	  //封面
-	  coverpage: true
+	  coverpage: true,
+	  alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    }
 
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
 </body>
 </html>
