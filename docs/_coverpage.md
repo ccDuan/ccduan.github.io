@@ -1,8 +1,12 @@
-# snow
+![logo](_media/icon.svg)
 
+# docsify <small>4.11.6</small>
 
-> 快速构建你的微服务项目
+> A magical documentation site generator.
 
+- Simple and lightweight
+- No statically built html files
+- Multiple themes
 
-[文档](https://www.baidu.com)
-[滚动鼠标](#introduction)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Getting Started](#docsify)
