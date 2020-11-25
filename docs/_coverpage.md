@@ -1,6 +1,6 @@
-![logo](_media/icon.svg)
+![logo](_media/icon.PNG)
 
-# docsify <small>4.11.6</small>
+# Snow <small>微服务</small>
 
 > A magical documentation site generator.
 
