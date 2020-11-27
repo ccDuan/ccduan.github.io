@@ -8,7 +8,7 @@
 
 - [工具](tool.md)
 
-- 程序设计
+- 设计模式
 
-  - [Deploy](deploy.md)
+  - [程序设计](程序设计.md)
   - [Helpers](helpers.md)
