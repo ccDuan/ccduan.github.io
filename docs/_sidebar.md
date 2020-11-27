@@ -8,7 +8,7 @@
 
 - [工具](tool.md)
 
-- Guide
+- 程序设计
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
