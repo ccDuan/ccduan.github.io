@@ -1,4 +1,4 @@
-![logo](_media/icon.PNG)
+![logo](_media/icon.jpg)
 
 # Snow <small>微服务</small>
 
